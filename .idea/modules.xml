@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cl1-jpa-data-Eusebio-Stephanie/cl1-jpa-data-Eusebio-Stephanie.iml" filepath="$PROJECT_DIR$/cl1-jpa-data-Eusebio-Stephanie/cl1-jpa-data-Eusebio-Stephanie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-data-cl1.iml" filepath="$PROJECT_DIR$/.idea/spring-data-cl1.iml" />
     </modules>
   </component>
 </project>
